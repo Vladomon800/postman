@@ -1,7 +1,7 @@
 ---
 name: User  Story
 about: Describe this issue template's purpose here.
-title: ''
+title: " calculator story"
 labels: user story
 assignees: Vladomon800
 
